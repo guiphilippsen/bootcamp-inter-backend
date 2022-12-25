@@ -1,9 +1,7 @@
 import java.util.Scanner;
 
-public class Program {
-  /**
-   * @param args
-   */
+public class Mesada {
+
   public static void main(String[] args) {
     try (Scanner leitor = new Scanner(System.in)) {
       int entrada = leitor.nextInt();
